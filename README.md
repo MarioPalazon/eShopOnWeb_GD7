@@ -1,3 +1,7 @@
+#Crear Service Principal
+<img width="1027" height="43" alt="image" src="https://github.com/user-attachments/assets/af0ca17e-8fc9-4410-b581-a7a81247e8ad" />
+
+
 [![Build Status](https://github.com/dotnet-architecture/eShopOnWeb/workflows/eShopOnWeb%20Build%20and%20Test/badge.svg)](https://github.com/dotnet-architecture/eShopOnWeb/actions)
 
 # Microsoft eShopOnWeb ASP.NET Core Reference Application
